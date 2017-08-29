@@ -1,2 +1,2 @@
-digitalWrite(LED,HIGH);
+digitalWrite(LED,HIGH);  ytre
 
